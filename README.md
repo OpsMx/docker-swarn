@@ -1,7 +1,7 @@
 
 
 ![Sample image of  nodes with data](./nodes.png)
-
+   
 # Docker Swarm Visualizer
 *** Note ***
 _This only works with Docker Swarm Mode in Docker Engine 1.12.0 and later. It does not work with the separate Docker Swarm project_
