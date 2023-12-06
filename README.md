@@ -3,7 +3,7 @@ note
 ![Sample image of  nodes with data](./nodes.png)
 
 # Docker Swarm Visualizer
-*** Note ***
+*** note ***
 _This only works with Docker Swarm Mode in Docker Engine 1.12.0 and later. It does not work with the separate Docker Swarm project_
 > Also this is a sample app meant for learning Docker. Running this app in production is insecure and should be avoided. If you want to run it in production you must take all security precautions, and in particular [Protect the Docker daemon socket](https://docs.docker.com/engine/security/https/) with SSL.
 
