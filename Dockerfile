@@ -10,7 +10,7 @@ WORKDIR /app
 
 # Only run npm install if these files change.
 COPY package*.json ./
-COPY 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 ./
+COPY secret.json ./
 
 # Install dependencies
 RUN npm ci
