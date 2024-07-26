@@ -1,6 +1,6 @@
 #Latest version of node tested on.
 #FROM node:alpine AS dist
-FROM node:14-alpine AS dist
+FROM node:12-alpine AS dist
 
 # Tini is recommended for Node apps https://github.com/krallin/tini
 RUN apk add --no-cache tini
