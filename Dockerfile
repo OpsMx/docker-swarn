@@ -1,4 +1,4 @@
-#Latest version of node tested on.
+#Latest version of node tested on to test 2
 FROM node:12-alpine AS dist
 
 # Tini is recommended for Node apps https://github.com/krallin/tini
