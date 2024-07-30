@@ -137,4 +137,4 @@ $ docker run -it -d -p 8080:8080 -v /var/run/docker.sock:/var/run/docker.sock vi
 * Create tests and make them work better
 * Make CSS more elastic. Currently optimized for 3 nodes on a big screen
 * test for staging
-* Test for dev
+* Test for dev and prod
