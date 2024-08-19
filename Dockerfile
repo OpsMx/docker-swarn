@@ -12,7 +12,7 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-#RUN npm install
+RUN npm install
 RUN npm ci
 
 # Add the rest of the source
