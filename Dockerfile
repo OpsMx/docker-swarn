@@ -1,5 +1,5 @@
 #Latest version of node tested on.
-FROM node:20.16-alpine AS dist
+FROM node:3.16.8 AS dist
 #FROM alpine:3.20.2
 
 # Tini is recommended for Node apps https://github.com/krallin/tini
